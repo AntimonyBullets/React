@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(27, 27, 27);
+  color: white;
+}
+
+.colorContainer{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 20px ;
+}
